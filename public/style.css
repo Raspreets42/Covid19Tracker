@@ -1,0 +1,79 @@
+.mainContainer{
+    /* border: 2px solid black; */
+    background-color: aqua;
+    border-radius: 5px;
+
+    font-size: 1.2vmax;
+
+    display: flex;
+    flex-direction: column;
+    
+    max-width: 50vmax;
+    padding: 1vmax;
+    margin: 3vmax auto;
+}
+.subContainer{
+    /* border: 2px solid black; */
+
+    margin:1vmax auto;
+    padding: 0.3vmax;
+}
+#district{
+    width: 24.5vmax;
+}
+#submitbtn{
+    border: 1px solid black;
+
+    font-size: 1vmax;
+    font-weight: bold;
+
+    width: 10vmax;
+    padding: 0.3vmax;
+}
+#submitbtn:hover{
+    background-color: rgb(4, 184, 4);
+}
+.mainContainer1{
+    border: 2px solid black;
+    border-radius: 5px;
+
+    max-width: 50vmax;
+    display: flex;
+    flex-wrap: wrap;
+
+    margin: auto;
+    padding: 0.8vmax;
+}
+.subContainer1{
+    /* border: 2px solid black; */
+    border-radius: 5px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 1vmax;
+    margin: auto;
+}
+.status-head{
+    font-size: 1.2vmax;
+    font-weight: bold;
+
+    border-bottom: 2px solid black;
+    margin-bottom: 1vmax;
+}
+.status-body{
+    font-size: 1vmax;
+    font-weight: bold;
+}
+.mainContainer2{
+    border: 2px solid black;
+    border-radius: 5px;
+
+    font-size: 1.1vmax;
+    font-weight: bold;
+    max-width: 50vmax;
+
+    margin:1vmax auto;
+    padding: 0.8vmax;
+}

@@ -1,0 +1,8 @@
+Here I used express to create a server running on port 3000;
+
+I used Handlebars to design front end .
+
+To start the server , open cmd in parant folder and use command - 
+npm start 
+
+search on chrome - localhost:3000 to see the working
